@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="Initial-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheUs3rName&theme=dark&background=000000)](https://git.io/streak-stats)
