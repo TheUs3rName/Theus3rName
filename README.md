@@ -22,6 +22,8 @@ I am a Frontend Developer with expertise in technologies such as HTML, CSS, Java
 I am always eager to learn new technologies and stay up-to-date with the latest trends in web development.
 
 In my free time, I enjoy solving problems on GeeksforGeeks and reading tech articles.
+
+
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -35,6 +37,14 @@ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech arti
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/docker/docker-original.svg" alt="docker" height="45"/> 
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/firebase/firebase-original.svg" alt="firebase" height="45" width="45" /> 
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/graphql/graphql-plain.svg" alt="graphql" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/mongodb/mongodb-original.svg" alt="mongodb" height="45" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" alt="node.js" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/linux/linux-original.svg" alt="linux" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/git/git-original.svg" alt="git" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/fastapi/fastapi-original.svg" alt="fastapi" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/redux/redux-original.svg" alt="redux" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/redis/redis-original.svg" alt="redis" height="45" width="45" />
 
 
 </div>
