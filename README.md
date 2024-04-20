@@ -24,7 +24,11 @@ I am always eager to learn new technologies and stay up-to-date with the latest 
 In my free time, I enjoy solving problems on GeeksforGeeks and reading tech articles.
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2><p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/><img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-wordmark.svg" alt="bash" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" alt="python" width="45" height="45" /> 
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/react/react-original.svg" alt="react.js" width="45" height="45" >
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/nextjs/nextjs-original.svg" alt="next.js" width="45" height="45" > 
@@ -33,5 +37,5 @@ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech arti
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/graphql/graphql-plain.svg" alt="graphql" height="45" width="45" />
 
 
-</p>
+</div>
 
