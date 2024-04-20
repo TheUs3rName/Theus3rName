@@ -27,11 +27,8 @@ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech arti
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div align="center">
-  <div align="center" style="display: flex">
+<div align="center" styles="width: 100%; display: flex; justify-content: space-beetween;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-    <p>Bash</p>
-  </div
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" alt="python" width="45" height="45" /> 
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/react/react-original.svg" alt="react.js" width="45" height="45" >
