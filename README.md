@@ -14,7 +14,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer from Iran.
 
 I am a Frontend Developer with expertise in technologies such as HTML, CSS, JavaScript, React, and Next. I am passionate about building responsive and user-friendly web applications.
