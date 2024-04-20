@@ -21,7 +21,7 @@ I am a Frontend Developer with expertise in technologies such as HTML, CSS, Java
 
 I am always eager to learn new technologies and stay up-to-date with the latest trends in web development.
 
-In my free time, I enjoy solving problems on GeeksforGeeks and reading tech articles.
+In my free time, I enjoy Exercise and reading tech articles.
 
 
 ---
