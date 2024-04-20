@@ -25,7 +25,7 @@ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech arti
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div align="center" style="width: 100%;display: flex;justify-content: space-evenly;">
+<div style="width: 100%;display: flex;justify-content: space-between;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45" margin="5"/>
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
