@@ -44,7 +44,8 @@ In my free time, I enjoy Exercise and reading tech articles.
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/fastapi/fastapi-original.svg" alt="fastapi" height="45" width="45" />
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/redux/redux-original.svg" alt="redux" height="45" width="45" />
   <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/redis/redis-original.svg" alt="redis" height="45" width="45" />
-
+  <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="typescript" height="45" width="45" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="45" width="45" />
 
 </div>
 
