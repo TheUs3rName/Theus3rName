@@ -10,3 +10,7 @@
 - **Backend**: NestJS, SpringBoot
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Others**: GraphQL, REST APIs, Docker, Git, TailwindCSS, Redux Toolkit, Firebase, Postman, Node.js, etc
+
+
+### Contact 
+- **Discord**: https://discord.com/users/th3us3rnam3
